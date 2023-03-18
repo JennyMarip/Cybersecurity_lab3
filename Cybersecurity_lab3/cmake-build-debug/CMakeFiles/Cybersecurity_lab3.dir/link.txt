@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/Cybersecurity_lab3.dir/main.c.o -o Cybersecurity_lab3 
